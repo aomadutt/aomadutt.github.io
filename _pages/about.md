@@ -17,13 +17,13 @@ I graduated in May 2024 with a GPA of 3.30. My coursework included Thermofluid M
 
 ## Experience
 
-As an Undergraduate R&D Engineer at Swarthmore College, I developed a robotic model to replicate the swimming techniques of barnacle larvae, focusing on hydrodynamic analysis to investigate the significance of body extensions. This project involved optimizing Nitinol springs for actuation, integrating microcontrollers with 3D-printed components, and designing a compact robotic system. I presented this research at the SICB Conference, where I was recognized as a Best Student Presentation Finalist.
+As an Undergraduate R&D Engineer at Swarthmore College, I developed a robotic model to replicate the swimming techniques of barnacle larvae, focusing on hydrodynamic analysis to investigate the significance of body extensions. This project involved optimizing nitinol springs for actuation, integrating microcontrollers with 3D-printed components, and designing a compact robotic system. I presented this research at the SICB Conference, where I was recognized as a Best Student Presentation Finalist.
 
 ## Key Projects
 
 **Robotic Model Barnacle Nauplii**
 
-Developed a robotic model to simulate barnacle nauplii swimming techniques, utilizing Nitinol springs and microcontrollers. Created a compact design with 3D-printed components and a custom PCB.
+Developed a robotic model to simulate barnacle nauplii swimming techniques, utilizing nitinol springs and microcontrollers. Created a compact design with 3D-printed components and a custom PCB.
 
 **4-Wheel Independent Steering Drivetrain**
 
