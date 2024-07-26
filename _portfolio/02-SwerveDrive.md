@@ -1,5 +1,5 @@
 ---
 title: "4-Wheel Independent Steering Drivetrain"
-excerpt: "Developed a robotic model to simulate barnacle nauplii swimming techniques, utilizing nitinol springs and microcontrollers. Created a compact design with 3D-printed components and a custom PCB. <br/><img src='/images/SwerveDrive.png' width='300' height='500'>"
+excerpt: "Led a team in creating an omni-directional drivetrain robot for industrial applications, implementing swerve drive kinematics and computer vision for object detection and navigation. <br/><img src='/images/SwerveDrive.png' width='300' height='500'>"
 collection: portfolio
 ---
