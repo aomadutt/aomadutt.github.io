@@ -1,10 +1,10 @@
 ---
 permalink: /
-title: "Engineering: Putting the "fun" in Dysfunctional Design"
+title: "Engineering: Putting the 'Fun' in Dysfunctional Design"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+redirect_from:
+  - /about/
+  - /about.html
 ---
 ## Introduction
 
@@ -19,7 +19,9 @@ I graduated in May 2024 with a GPA of 3.30. My coursework included Thermofluid M
 As an undergraduate R&D engineer at Swarthmore College, I developed a robotic model to replicate the swimming techniques of barnacle larvae, focusing on hydrodynamic analysis to investigate the significance of body extensions. This project involved optimizing nitinol springs for actuation, integrating microcontrollers with 3D-printed components, and designing a compact robotic system. I presented this research at the SICB Conference, where I was recognized as a Best Student Presentation Finalist.
 
 ## Skills
+
 Some notable technologies I am proficient in include Fusion360, SolidWorks, Minitab, and OpenRocket. I am also skilled in programming languages such as MATLAB, Python, Java, and C/C++. My prototyping and fabrication skills include 3D printing, CNC machining, and PCB schematic design.
 
 ## Contact Information
-I am eager to connect with professionals and explore new opportunities. Feel free to reach out to me at [aomadutt@gmail.com](aomadutt@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/aaron-omadutt-a178301aa/).
+
+I am eager to connect with professionals and explore new opportunities. Feel free to reach out to me at [aomadutt@gmail.com](mailto:aomadutt@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/aaron-omadutt-a178301aa/).
