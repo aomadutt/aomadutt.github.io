@@ -9,17 +9,17 @@ In this hobby project, a high-powered model rocket was designed and constructed.
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
   <!-- Image 1 -->
   <div style="margin: 10px;">
-    <img src='/images/OpenRocket.png" style="width: 200px; height: auto;">
+    <img src='/images/OpenRocket.png' style="width: 200px; height: auto;">
   </div>
 
   <!-- Image 2 -->
   <div style="margin: 10px;">
-    <img src='/images/OpenRocketSim.png" style="width: 200px; height: auto;">
+    <img src='/images/OpenRocketSim.png' style="width: 200px; height: auto;">
   </div>
 
   <!-- Image 3 -->
   <div style="margin: 10px;">
-    <img src='/images/ActualRocket.jpg" style="width: 200px; height: auto;">
+    <img src='/images/ActualRocket.jpg' style="width: 200px; height: auto;">
   </div>
 
   <!-- Video -->
