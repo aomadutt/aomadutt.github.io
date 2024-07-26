@@ -10,21 +10,29 @@ In the Bearing Box project, a cylindrical box was designed using Fusion360 to si
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/styles/default.min.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/highlight.min.js"></script>
+  <script>hljs.highlightAll();</script>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Python Script Viewer</title>
   <style>
-    .scrollable-code-container {
-      width: 100%;
-      height: 400px;
-      overflow-y: scroll;
-      overflow-x: hidden;
-      border: 1px solid #ddd;
-      padding: 10px;
-      background-color: #f4f4f4;
-      font-family: monospace;
-    }
-  </style>
+  .scrollable-code-container {
+    width: 100%;
+    height: 400px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    border: 1px solid #ddd;
+    padding: 10px;
+    background-color: #f4f4f4;
+    font-family: monospace;
+    font-size: 14px; /* Adjust the font size */
+  }
+  pre {
+    margin: 0;
+  }
+</style>
+
 </head>
 <body>
   <div class="scrollable-code-container">
@@ -43,7 +51,6 @@ import matplotlib.pyplot as plt
 import random
 import sys
 
-# header and footer used below by emit_gcode
 HEADER = '''%
 (G90 = absolute coordinates)
 G90
@@ -74,7 +81,6 @@ lines_per_box = 6 # Number of lines per axis of box to create hatching
 colours = ["k-", "b-", "r-", "y-"] # matplotlib references for colours used in a typical Mondrian painting
 line_thickness = 0.5 # Thickness of the line used for hatching
 
-# Get the random x-cords for 'n' random vertical lines
 def rand_vert_lines():
     xcords = [0] * num_lines
     for i, cord, in enumerate (xcords):
@@ -83,7 +89,6 @@ def rand_vert_lines():
             xcords[i] = random.uniform(bound, width - bound)
     return xcords
 
-# Get the random y-cords for 'n' random horizontal lines
 def rand_ho_lines():
     ycords = [0] * num_lines
     for i, cord, in enumerate (ycords):
@@ -93,7 +98,6 @@ def rand_ho_lines():
     
     return ycords
 
-# Chooses a single box at random per column to hatch and puts it in a list
 def random_boxes():
     boxes = [0] * (box_a_row_col)
     for i in range(box_a_row_col):
@@ -101,7 +105,6 @@ def random_boxes():
     
     return boxes
 
-# Gets the coordinates to draw the hatching of boxes
 def plot_boxes(v_cords, h_cords, b_indices, h_paths):
     for i in range (len(b_indices)):
         x_bot = v_cords[i]
@@ -114,7 +117,6 @@ def plot_boxes(v_cords, h_cords, b_indices, h_paths):
         
     return None
 
-# Actually draws the hatching
 def create_hatch(x_bot, x_top, y_bot, y_top, h_paths):
     delta_x = (x_top - x_bot) / lines_per_box
     delta_y = (y_top - y_bot) / lines_per_box
@@ -136,7 +138,6 @@ def create_hatch(x_bot, x_top, y_bot, y_top, h_paths):
         
     return None
 
-# Checks if lines are too close together.
 def is_too_close(tol, c0, curr_index, coordinates):
     is_near = False
     for j in range(curr_index):
@@ -144,10 +145,6 @@ def is_too_close(tol, c0, curr_index, coordinates):
             is_near = True
     
     return is_near
-
-######################################################################
-# generate an engraving toolpath - you will want to steal this
-# function for your own code!
 
 def engrave_toolpath(ncfile, # opened file that can be written to
                      path, # points along path to engrave                     
@@ -193,8 +190,6 @@ def engrave_toolpath(ncfile, # opened file that can be written to
         # return back to our starting point at the same linear feedrate
         ncfile.write(f'X{x0:.3f} Y{y0:.3f}\n')
 
-######################################################################
-# emit paths to gcode - you will want to code up something similar!
 
 def emit_gcode(paths, gcode_filename, 
                tool_number, spindle_speed,
@@ -239,8 +234,6 @@ def emit_gcode(paths, gcode_filename,
 
     print('wrote', gcode_filename)
     
-
-##############################################################################
 
 def main():
     #seed = random.randint(0, 100000000)
@@ -292,8 +285,8 @@ def main():
     
     
 main()
-
     </code></pre>
+    
   </div>
 </body>
 </html>
