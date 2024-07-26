@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hey, I'm Aaron 👋"
+title: "Engineering Mischief and Design Shenanigans"
 author_profile: true
 redirect_from: 
   - /about/
