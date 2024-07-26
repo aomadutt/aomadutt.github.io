@@ -15,5 +15,5 @@ Demonstration of our autonomous sorting demo:
 Demonstration of our tele-operational demo:
 
 <video width="600" controls>
-  <source src="SwerveTeleOp420p.mp4" type="video/mp4">
+  <source src="/images/SwerveTeleOp420p.mp4" type="video/mp4">
 </video>
