@@ -1,5 +1,5 @@
 ---
 title: "Heart Rate Monitor"
-excerpt: ""
+excerpt: "Built an ECG system with microcontrollers and an INA114 amplifier for heart rate detection. Developed a MATLAB script to identify peaks, ensuring accuracy by cross-verifying with existing data."
 collection: portfolio
 ---
