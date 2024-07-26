@@ -27,7 +27,7 @@ Developed a robotic model to simulate barnacle nauplii swimming techniques, util
 
 **4-Wheel Independent Steering Drivetrain**
 
-Led a team in creating an omni-directional robot for industrial applications, implementing swerve drive kinematics and computer vision for object detection and navigation.
+Led a team in creating an omni-directional drivetrain robot for industrial applications, implementing swerve drive kinematics and computer vision for object detection and navigation.
 
 **Wind Tunnel Testing and Airfoil Analysis**
 
