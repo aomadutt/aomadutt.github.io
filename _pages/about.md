@@ -1,27 +1,27 @@
 ---
 permalink: /
-title: "About Me"
+title: "Hey, I'm Aaron 👋"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-# Introduction
+## Introduction
 
 My name is Aaron Omadutt, I am a recent graduate from Swarthmore College with a B.S. in Engineering and a B.A. in Mathematics. My academic and practical experience has provided me with a strong foundation in engineering principles and mathematical analysis, which I have applied to a variety of projects.
 
 
-# Education
+## Education
 
 I graduated in May 2024 with a GPA of 3.30. My coursework included Thermofluid Mechanics, Aerodynamics, and Computer-Aided Manufacturing and Procedural Design, equipping me with a comprehensive understanding of both theoretical and practical aspects of engineering.
 
-# Experience
+## Experience
 
 As an Undergraduate R&D Engineer at Swarthmore College, I developed a robotic model to replicate the swimming techniques of barnacle larvae, focusing on hydrodynamic analysis to investigate the significance of body extensions. This project involved optimizing Nitinol springs for actuation, integrating microcontrollers with 3D-printed components, and designing a compact robotic system. I presented this research at the SICB Conference, where I was recognized as a Best Student Presentation Finalist.
 
-# Key Projects
+## Key Projects
 
-** Robotic Model Barnacle Nauplii **
+**Robotic Model Barnacle Nauplii**
 Developed a robotic model to simulate barnacle nauplii swimming techniques, utilizing Nitinol springs and microcontrollers. Created a compact design with 3D-printed components and a custom PCB.
 
 ** 4-Wheel Independent Steering Drivetrain **
