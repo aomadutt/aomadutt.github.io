@@ -26,7 +26,7 @@ As an Undergraduate R&D Engineer at Swarthmore College, I developed a robotic mo
 Some notable technologies I proficient in include: Fusion360, SolidWorks, Minitab and OpenRocket.  I am also skilled in programming languages such as MATLAB, Python, Java, and C/C++. My prototyping and fabrication skills include 3D printing, CNC machining, and PCB schematic design.
 
 ## Contact Information
-I am eager to connect with professionals and explore new opportunities. Feel free to reach out to me at aomadutt@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/aaron-omadutt-a178301aa/).
+I am eager to connect with professionals and explore new opportunities. Feel free to reach out to me at [aomadutt@gmail.com](aomadutt@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/aaron-omadutt-a178301aa/).
 
 
 
