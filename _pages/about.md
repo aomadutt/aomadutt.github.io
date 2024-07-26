@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Engineering: Putting the 'Fun' in Dysfunctional Design"
+title: "Engineering: Putting the 'fun' in Dysfunctional Design"
 author_profile: true
 redirect_from:
   - /about/
