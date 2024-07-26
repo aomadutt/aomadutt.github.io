@@ -10,9 +10,9 @@ In the Bearing Box project, a cylindrical box was designed using Fusion360 to si
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/styles/default.min.css">
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/highlight.min.js"></script>
-  <script>hljs.highlightAll();</script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/styles/dracula.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/highlight.min.js"></script>
+<script>hljs.highlightAll();</script>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Python Script Viewer</title>
@@ -24,12 +24,16 @@ In the Bearing Box project, a cylindrical box was designed using Fusion360 to si
     overflow-x: hidden;
     border: 1px solid #ddd;
     padding: 10px;
-    background-color: #f4f4f4;
+    background-color: #282a36; /* Dark background color */
+    color: #f8f8f2; /* Light text color */
     font-family: monospace;
     font-size: 14px; /* Adjust the font size */
   }
   pre {
     margin: 0;
+  }
+  code {
+    display: block;
   }
 </style>
 
