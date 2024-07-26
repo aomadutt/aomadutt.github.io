@@ -12,8 +12,8 @@ Demonstration of our autonomous sorting demo:
   <source src="/images/videoplayback.mp4" type="video/mp4">
 </video>
 
-Demonstration of our Tele-Operational SwerveDrive demo:
+Demonstration of our tele-operational demo:
 
 <video width="600" controls>
-  <source src="SwerveTeleOp420p.mov" type="video/mov">
+  <source src="SwerveTeleOp420p.mp4" type="video/mp4">
 </video>
