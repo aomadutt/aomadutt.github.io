@@ -13,7 +13,7 @@ My name is Aaron Omadutt, I am a recent graduate from Swarthmore College with a 
 
 ## Education
 
-I graduated in May 2024 with a GPA of 3.30. My coursework included Thermofluid Mechanics, Aerodynamics, and Computer-Aided Manufacturing and Procedural Design, equipping me with a comprehensive understanding of both theoretical and practical aspects of engineering.
+I graduated in May 2024 with a GPA of 3.30. My coursework included Thermofluid Mechanics, Aerodynamics, Computer-Aided Manufacturing and Procedural Design, Dynamics of Mechanical Systems, Mechanics, Linear Physical Systems Analysis, Experimentation for Engineering Design, Modeling, Stochastic and Numerical Methods, all which have equipped me with a comprehensive understanding of both theoretical and practical aspects of engineering.
 
 ## Experience
 
