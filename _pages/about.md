@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 ## Introduction
-
+![Picture of myself next to my senior capstone project](/image/roboPic.jpg){: .align-right}
 My name is Aaron Omadutt, I am a recent graduate from Swarthmore College with a B.S. in Engineering and a B.A. in Mathematics. My academic and practical experience has provided me with a strong foundation in engineering principles and mathematical analysis, which I have applied to a variety of projects.
 
 
