@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Engineering Mischief and Design Shenanigans"
+title: "Engineering: Putting the Fun in Dysfunctional Design"
 author_profile: true
 redirect_from: 
   - /about/
