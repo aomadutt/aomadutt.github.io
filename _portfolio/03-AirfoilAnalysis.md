@@ -20,7 +20,7 @@ This project focused on modeling and fabricating a NACA 1412 airfoil using Fusio
 
  <!-- Image 3 -->
   <div style="margin: 10px;">
-    <img src='/images/airfoilPrint.png' style="width: 350px; height: 350px; object-fit: contain;">
+    <img src='/images/airfoilPrint.png' style="width: 450px; height: 350px; object-fit: contain;">
   </div>
 
    <!-- Video -->
