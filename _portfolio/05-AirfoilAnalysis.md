@@ -11,17 +11,17 @@ This project focused on modeling and fabricating a NACA 1412 airfoil using Fusio
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
   <!-- Image 1 -->
   <div style="margin: 10px;">
-    <img src='/images/FusionNACA.png' style="width: 350px; height: 350px; object-fit: contain;" alt="Fusion NACA">
+    <img src='/images/FusionNACA.png' style="width: 350px; height: 350px; object-fit: contain;">
   </div>
 
   <!-- Image 2 -->
   <div style="margin: 10px;">
-    <img src='/images/E87Data.jpg' style="width: 350px; height: 350px; object-fit: contain;" alt="E87 Data">
+    <img src='/images/E87Data.jpg' style="width: 350px; height: 350px; object-fit: contain;">
   </div>
 
   <!-- Image 3 -->
   <div style="margin: 10px;">
-    <img src='/images/airfoilPrint.png' style="width: 400px; height: 350px; object-fit: contain;" alt="Airfoil Print">
+    <img src='/images/airfoilPrint.png' style="width: 400px; height: 350px; object-fit: contain;">
   </div>
 
   <!-- Video -->
