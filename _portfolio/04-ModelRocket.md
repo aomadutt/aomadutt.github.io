@@ -1,9 +1,10 @@
 ---
 title: "High Power Model Rocket"
 excerpt: "Modeled and constructed a rocket with advanced features such as a calibrated electronics bay for parachute deployment, leveraging tools like OpenRocket and Fusion 360."
-<img src='/images/ActualRocket.jpg' width='300' height='500'>
+<br/><img src='/images/ActualRocket.jpg' width='300' height='500'>
 collection: portfolio
 ---
+
 
 In this hobby project, a high-powered model rocket was designed and constructed. OpenRocket software was used to simulate the rocket's flight, optimizing apogee and parachute deployment dynamics based on theoretical parameters such as mass, nose cone aerodynamics, and environmental conditions. A detailed analysis of the nose cone's subsonic performance guided its design, which was modeled and fabricated using Fusion 360 and 3D printing. The rocket, powered by an H-class motor, featured an integrated electronics bay for precise parachute deployment and calibrated masses for enhanced stability.
 
