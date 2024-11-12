@@ -16,7 +16,9 @@ main:
   #  url: /year-archive/
     
   - title: "Resume/CV"
-    url: /files/Aaron_Omadutt-Resume_2024.pdf
+    #url: /files/Aaron_Omadutt-Resume_2024.pdf
+    url: /files/Aaron_Omadutt_Resume_24.pdf
+    
     
     
   #- title: "Guide"
